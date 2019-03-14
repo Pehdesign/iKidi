@@ -1,0 +1,14 @@
+﻿
+@if (Request.IsAuthenticated)
+{
+    <div class="panel panel-primary register-code-panel">
+        <div class="panel-heading">
+            <h4 class="panel-title">@Resource.RegisterCode</h4>
+        </div>
+        <div class="panel-body input-group">
+            <input type="text" class="form-control" placeholder=@Resource.CodeMessage />
+            <button class="btn btn-primary input-group-btn" type="button">@Resource.Submit</button>
+        </div>
+        <div class="alert alert-danger hidden">@Resource.RegisterCodeMessage</div>
+    </div>
+}

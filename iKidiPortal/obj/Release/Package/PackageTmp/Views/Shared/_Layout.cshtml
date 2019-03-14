@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/membership")
+    @Scripts.Render("~/bundles/modernizr")
+    <script src="http://content.jwplatform.com/libraries/Itohe0UC.js" ></script>
+    <script type = 'text/javascript' >
+        var appInsights=window.appInsights||function(config)
+        {
+            function r(config){ t[config] = function(){ var i = arguments; t.queue.push(function(){ t[config].apply(t, i)})} }
+            var t = { config:config},u=document,e=window,o='script',s=u.createElement(o),i,f;for(s.src=config.url||'//az416426.vo.msecnd.net/scripts/a/ai.0.js',u.getElementsByTagName(o)[0].parentNode.appendChild(s),t.cookie=u.cookie,t.queue=[],i=['Event','Exception','Metric','PageView','Trace','Ajax'];i.length;)r('track'+i.pop());return r('setAuthenticatedUserContext'),r('clearAuthenticatedUserContext'),config.disableExceptionTracking||(i='onerror',r('_'+i),f=e[i],e[i]=function(config, r, u, e, o) { var s = f && f(config, r, u, e, o); return s !== !0 && t['_' + i](config, r, u, e, o),s}),t
+        }({
+            instrumentationKey:'02387659-adc6-4a5c-b2db-e4016724ffa7'
+        });
+        
+        window.appInsights=appInsights;
+        appInsights.trackPageView();
+    </script>
+</head>
+<body>
+    <div class="navbar navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar navbar-inverse"></span>
+                    <span class="icon-bar navbar-inverse"></span>
+                    <span class="icon-bar navbar-inverse"></span>
+                </button>
+                <a class="navbar-brand" href="/Home/Index/">
+                    <img src="~/Content/Logos/ikidi-icon-30x152.png" class="visible-xs" />
+                    <img src="~/Content/Logos/ikidi-icon-45x184.png" class="hidden-xs" />
+                </a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink(Resource.Home, "Index", "Home")</li>
+                    <li>@Html.ActionLink(Resource.About, "About", "Home")</li>
+                    <li>@Html.ActionLink(Resource.Contact, "Contact", "Home")</li>
+                    <li>@Html.ActionLink(Resource.Coach, "Index", "Coach")</li>                    
+                    @Html.Partial("_AdminMenuPartial")
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>iKidi &copy; @DateTime.Now.Year - By Pehdesign</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/admin")
+    @Scripts.Render("~/bundles/ui")
+    @Scripts.Render("~/bundles/language")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

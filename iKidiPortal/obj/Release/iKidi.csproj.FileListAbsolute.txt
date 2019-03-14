@@ -1,0 +1,713 @@
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\roslyn\csc.exe
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\roslyn\vbc.exe
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Memberships.dll.config
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Memberships.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Memberships.pdb
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Antlr3.Runtime.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\EntityFramework.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\EntityFramework.SqlServer.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Newtonsoft.Json.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Owin.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.Helpers.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.Mvc.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.Optimization.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.Razor.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.WebPages.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\WebGrease.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.Helpers.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.Mvc.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.Optimization.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.Razor.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.WebPages.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Antlr3.Runtime.pdb
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Newtonsoft.Json.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\EntityFramework.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\EntityFramework.SqlServer.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\obj\Release\iKidi.csprojResolveAssemblyReference.cache
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\obj\Release\iKidi.csproj.CoreCompileInputs.cache
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\obj\Release\Memberships.dll
+C:\Users\Pehdesign\Downloads\Memberships-Video-Code-Finished\Memberships - Video Code - Finished\Memberships\obj\Release\Memberships.pdb
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\ApplicationInsights.config
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\roslyn\csc.exe
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\roslyn\vbc.exe
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Memberships.dll.config
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Memberships.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Memberships.pdb
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\en\Memberships.resources.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Antlr3.Runtime.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\EntityFramework.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\EntityFramework.SqlServer.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AI.Web.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Newtonsoft.Json.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Owin.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.Helpers.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.Mvc.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.Optimization.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.Razor.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.WebPages.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\WebGrease.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AI.Web.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.Helpers.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.Mvc.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.Optimization.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.Razor.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.WebPages.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Antlr3.Runtime.pdb
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Newtonsoft.Json.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\EntityFramework.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\EntityFramework.SqlServer.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\obj\Release\Memberships.App_LocalResources.GlobalRes.resources
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\obj\Release\Memberships.App_LocalResources.GlobalRes.en.resources
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\obj\Release\iKidi.csproj.GenerateResource.Cache
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\obj\Release\iKidi.csproj.CoreCompileInputs.cache
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\obj\Release\en\Memberships.resources.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\obj\Release\Memberships.dll
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\obj\Release\Memberships.pdb
+C:\Users\Pehdesign\Desktop\iKidiPortal\Memberships\obj\Release\iKidi.csprojResolveAssemblyReference.cache
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\ApplicationInsights.config
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\roslyn\csc.exe
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\roslyn\vbc.exe
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Memberships.dll.config
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Memberships.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Memberships.pdb
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\pl\Memberships.resources.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Antlr3.Runtime.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\EntityFramework.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\EntityFramework.SqlServer.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AI.Web.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Newtonsoft.Json.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Owin.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.Helpers.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.Mvc.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.Optimization.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.Razor.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.WebPages.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\WebGrease.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AI.Web.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.Helpers.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.Mvc.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.Optimization.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.Razor.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.WebPages.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Antlr3.Runtime.pdb
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Newtonsoft.Json.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\EntityFramework.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\EntityFramework.SqlServer.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\obj\Release\Memberships.App_GlobalResources.Resource.resources
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\obj\Release\Memberships.App_GlobalResources.Resource.pl.resources
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\obj\Release\iKidi.csproj.GenerateResource.Cache
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\obj\Release\iKidi.csproj.CoreCompileInputs.cache
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\obj\Release\pl\Memberships.resources.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\obj\Release\Memberships.dll
+C:\Users\Pehdesign\Desktop\iKidiPortalLanguageTest\Memberships\obj\Release\Memberships.pdb
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\ApplicationInsights.config
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\roslyn\csc.exe
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\roslyn\vbc.exe
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\iKidi.dll.config
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\iKidi.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\iKidi.pdb
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\pl\iKidi.resources.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Antlr3.Runtime.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\EntityFramework.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Newtonsoft.Json.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Owin.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.Helpers.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.Mvc.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.Optimization.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.Razor.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.WebPages.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\WebGrease.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.Helpers.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.Mvc.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.Optimization.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.Razor.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.WebPages.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Newtonsoft.Json.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\EntityFramework.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\obj\Release\iKidi.App_GlobalResources.Resource.resources
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\obj\Release\iKidi.App_GlobalResources.Resource.pl.resources
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\obj\Release\iKidi.csproj.GenerateResource.Cache
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\obj\Release\iKidi.csproj.CoreCompileInputs.cache
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\obj\Release\pl\iKidi.resources.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\obj\Release\iKidi.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\obj\Release\iKidi.pdb
+C:\Users\Pehdesign\Desktop\iKidi kopia\iKidiPortal\obj\Release\iKidi.csprojResolveAssemblyReference.cache
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\ApplicationInsights.config
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\roslyn\csc.exe
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\roslyn\vbc.exe
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\iKidi.dll.config
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\iKidi.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\iKidi.pdb
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\pl\iKidi.resources.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Antlr3.Runtime.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\EntityFramework.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Newtonsoft.Json.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Owin.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Helpers.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Mvc.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Optimization.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Razor.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.WebPages.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\WebGrease.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Helpers.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Mvc.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Optimization.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Razor.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.WebPages.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Newtonsoft.Json.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\EntityFramework.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.csprojResolveAssemblyReference.cache
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.App_GlobalResources.Resource.resources
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.App_GlobalResources.Resource.pl.resources
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.csproj.GenerateResource.Cache
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.csproj.CoreCompileInputs.cache
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\obj\Release\pl\iKidi.resources.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.dll
+C:\Users\Pehdesign\Desktop\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.pdb
+H:\iKidi kopia — kopia\iKidiPortal\bin\ApplicationInsights.config
+H:\iKidi kopia — kopia\iKidiPortal\bin\roslyn\csc.exe
+H:\iKidi kopia — kopia\iKidiPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\iKidi kopia — kopia\iKidiPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\iKidi kopia — kopia\iKidiPortal\bin\roslyn\System.Collections.Immutable.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\roslyn\System.Reflection.Metadata.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\roslyn\vbc.exe
+H:\iKidi kopia — kopia\iKidiPortal\bin\roslyn\VBCSCompiler.exe
+H:\iKidi kopia — kopia\iKidiPortal\bin\roslyn\VBCSCompiler.exe.config
+H:\iKidi kopia — kopia\iKidiPortal\bin\iKidi.dll.config
+H:\iKidi kopia — kopia\iKidiPortal\bin\iKidi.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\iKidi.pdb
+H:\iKidi kopia — kopia\iKidiPortal\bin\pl\iKidi.resources.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Antlr3.Runtime.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\EntityFramework.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\EntityFramework.SqlServer.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.Agent.Intercept.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.DependencyCollector.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.Web.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.WindowsServer.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.ApplicationInsights.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.Core.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Cookies.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Facebook.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Google.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.OAuth.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Twitter.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Web.Infrastructure.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Newtonsoft.Json.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Owin.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Diagnostics.DiagnosticSource.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Helpers.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Mvc.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Optimization.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Razor.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.WebPages.Deployment.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.WebPages.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.WebPages.Razor.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\WebGrease.dll
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.DependencyCollector.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.Web.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AI.WindowsServer.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.ApplicationInsights.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Diagnostics.DiagnosticSource.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Helpers.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Mvc.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Optimization.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.Razor.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.WebPages.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.WebPages.Deployment.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\System.Web.WebPages.Razor.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Antlr3.Runtime.pdb
+H:\iKidi kopia — kopia\iKidiPortal\bin\Newtonsoft.Json.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\EntityFramework.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\EntityFramework.SqlServer.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.Core.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Facebook.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Cookies.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.OAuth.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Google.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.Twitter.xml
+H:\iKidi kopia — kopia\iKidiPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.csprojResolveAssemblyReference.cache
+H:\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.App_GlobalResources.Resource.resources
+H:\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.App_GlobalResources.Resource.pl.resources
+H:\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.csproj.GenerateResource.Cache
+H:\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.csproj.CoreCompileInputs.cache
+H:\iKidi kopia — kopia\iKidiPortal\obj\Release\pl\iKidi.resources.dll
+H:\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.dll
+H:\iKidi kopia — kopia\iKidiPortal\obj\Release\iKidi.pdb
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\ApplicationInsights.config
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\roslyn\csc.exe
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\roslyn\vbc.exe
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\iKidi.dll.config
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\iKidi.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\iKidi.pdb
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\pl\iKidi.resources.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Antlr3.Runtime.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\EntityFramework.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.Web.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Newtonsoft.Json.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Owin.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.Helpers.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.Mvc.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.Optimization.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.Razor.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.WebPages.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\WebGrease.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.Web.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.Helpers.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.Mvc.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.Optimization.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.Razor.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.WebPages.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Antlr3.Runtime.pdb
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Newtonsoft.Json.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\EntityFramework.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.App_GlobalResources.Resource.resources
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.App_GlobalResources.Resource.pl.resources
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.csproj.GenerateResource.Cache
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.csproj.CoreCompileInputs.cache
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\obj\Release\pl\iKidi.resources.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.dll
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.pdb
+C:\Users\PehClarite\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.csprojResolveAssemblyReference.cache
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\ApplicationInsights.config
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\roslyn\csc.exe
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\roslyn\vbc.exe
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\iKidi.dll.config
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\iKidi.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\iKidi.pdb
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\pl\iKidi.resources.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Antlr3.Runtime.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\EntityFramework.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Newtonsoft.Json.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Owin.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.Helpers.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.Mvc.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.Optimization.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.Razor.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.WebPages.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\WebGrease.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.Helpers.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.Mvc.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.Optimization.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.Razor.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.WebPages.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Newtonsoft.Json.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\EntityFramework.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.csprojResolveAssemblyReference.cache
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.App_GlobalResources.Resource.resources
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.App_GlobalResources.Resource.pl.resources
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.csproj.GenerateResource.Cache
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.csproj.CoreCompileInputs.cache
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\obj\Release\pl\iKidi.resources.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.dll
+C:\Users\Pehdesign\Desktop\iKidi\iKidiPortal\obj\Release\iKidi.pdb

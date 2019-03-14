@@ -1,0 +1,47 @@
+﻿@model iKidi.Models.RegisterUserModel
+
+<div class="register-user-panel">
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h4 class="panel-title">@Resource.RegisterFreeAccount</h4>
+        </div>
+        <div class="panel-body">
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(false, "", new { @style = "" })
+            <div class="input-group input-group-sm">
+                <span class="input-group-addon glyphicon glyphicon-user"></span>
+                @Html.TextBoxFor(m => m.Name, new
+           {
+               @class = "form-control first-name",
+               @placeholder = @Resource.FirstName
+           })
+            </div>
+            <div class="input-group input-group-sm">
+                <span class="input-group-addon glyphicon glyphicon-envelope"></span>
+                @Html.TextBoxFor(m => m.Email, new
+           {
+               @class = "form-control email",
+               @placeholder = @Resource.Email
+           })
+            </div>
+            <div class="input-group input-group-sm">
+                <span class="input-group-addon glyphicon glyphicon-lock"></span>
+                @Html.PasswordFor(m => m.Password, new
+           {
+               @class = "form-control password",
+               @placeholder = @Resource.Password
+           })
+            </div>
+
+            <div class="register-checkbox">
+                @Html.CheckBoxFor(m => m.AcceptUserAgreement,
+             new { @data_register_user_agreement_click = "" })
+                <span>@Resource.TermsUseAccept @Html.ActionLink(Resource.TermsUse, "TermsOfUse", "Legal")</span>
+            </div>
+
+            <button type="button" class="pull-right btn btn-success disabled">
+                @Resource.SignUp
+            </button>
+        </div>
+    </div> 
+</div>

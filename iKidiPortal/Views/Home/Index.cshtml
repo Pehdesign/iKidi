@@ -1,0 +1,79 @@
+﻿@model IEnumerable<iKidi.Models.ThumbnailAreaModel>
+@using iKidi.Models
+
+@{
+    ViewBag.Title = @Resource.HomePage;
+    var culture = System.Threading.Thread.CurrentThread.CurrentUICulture.Name.ToLowerInvariant();
+}
+@helper selected(string c, string culture)
+{
+if (c == culture)
+{
+        @:checked="checked"
+    }
+}
+
+<div class="row">
+    @if (User.Identity.IsAuthenticated)
+    {
+        foreach (var area in Model)
+        {
+            @Html.Partial("_ThumbnailAreaPartial", area)
+        }
+    }
+    else
+    {
+        //Left column
+        <div class="col-lg-9 col-md-8 col-sm-7">
+            <h2>@Resource.NotLogin</h2>
+
+        </div>
+        //Right column
+        <div class="col-lg-3 col-md-4 col-sm-5">
+            @Html.Partial("_RegisterUserPartial", new RegisterUserModel { Email = "", Name = "", Password = "" })
+            @Html.Partial("_ForgotPasswordPanelPartial", new ForgotPasswordViewModel { Email = "" })
+        </div>
+    }
+</div>
+<div class="row">
+    <div class="col-sm-3 regiger-code-area">
+        @Html.Partial("_RegisterCodePartial")
+    </div>
+    <div class="col-sm-9">
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-3 regiger-code-area">
+        @using (Html.BeginForm("SetCulture", "Home"))
+            {
+            <fieldset>
+                <legend>@Resource.ChooseYourLanguage</legend>
+                <div class="control-group">
+                    <div class="controls">
+                        <label for="en-us">
+                            <input name="culture" id="en-us" value="en-us" type="radio" @selected("en-us", culture) /> English
+                        </label>
+                        &nbsp;&nbsp;
+                        <label for="es">
+                            <input name="culture" id="pl" value="pl" type="radio" @selected("pl", culture) /> Polski
+                        </label>
+                    </div>
+               </div>
+            </fieldset>
+
+        }
+
+        @section Scripts {
+            @Scripts.Render("~/bundles/jqueryval")
+            <script type="text/javascript">
+                (function ($) {
+                    $("input[type = 'radio']").click(function () {
+                        $(this).parents("form").submit(); // post form
+                    });
+
+                })(jQuery);
+            </script>
+        }
+    </div>
+</div>

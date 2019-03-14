@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>O nas</value>
+  </data>
+  <data name="AboutDescriptionMessage" xml:space="preserve">
+    <value>Tutaj dodatkowe informacje</value>
+  </data>
+  <data name="AboutMessage" xml:space="preserve">
+    <value>Your application description page.///////Tlumaczyc!!!</value>
+    <comment>!!!!!!!!!!!!!</comment>
+  </data>
+  <data name="AddSubscriptionUser" xml:space="preserve">
+    <value>Dodaj subskrypcję do użytkownika</value>
+  </data>
+  <data name="AllSubscriptionAdded" xml:space="preserve">
+    <value>Użytkownik ma wszystkie subskrypcje</value>
+  </data>
+  <data name="AnotherServiceToLogin" xml:space="preserve">
+    <value>Użyj innej usługi, aby się zalogować.</value>
+  </data>
+  <data name="AnotherServiceToLoginMessage" xml:space="preserve">
+    <value>Nie skonfigurowano zewnętrznych usług uwierzytelniania.</value>
+  </data>
+  <data name="BackToList" xml:space="preserve">
+    <value>Powrót</value>
+  </data>
+  <data name="CheckEmail" xml:space="preserve">
+    <value>Sprawdź swój e-mail, aby zresetować hasło.</value>
+  </data>
+  <data name="ChooseYourLanguage" xml:space="preserve">
+    <value>Wybierz jezyk</value>
+  </data>
+  <data name="ClickHereToLogin" xml:space="preserve">
+    <value>Kliknij tutaj aby się zalogować</value>
+  </data>
+  <data name="Coach" xml:space="preserve">
+    <value>Trener</value>
+  </data>
+  <data name="ConfirmEmail" xml:space="preserve">
+    <value>Potwierdź adres email</value>
+  </data>
+  <data name="ConfirmEmailMessage" xml:space="preserve">
+    <value>Dziękujemy za potwierdzenie adresu e-mail. Proszę</value>
+  </data>
+  <data name="ConnectorEntities" xml:space="preserve">
+    <value>Connector Entities</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="ContactMessage" xml:space="preserve">
+    <value>Nasz dane kontaktowe.</value>
+  </data>
+  <data name="Create" xml:space="preserve">
+    <value>Utwórz</value>
+  </data>
+  <data name="CreateNew" xml:space="preserve">
+    <value>Utwórz</value>
+  </data>
+  <data name="CreateUser" xml:space="preserve">
+    <value>Utwórz użytkownika</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Usuń</value>
+  </data>
+  <data name="DeleteConfirmation" xml:space="preserve">
+    <value>Czy na pewno chcesz to usunąć?</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Edytuj</value>
+  </data>
+  <data name="EditUser" xml:space="preserve">
+    <value>Edytuj użytkownika</value>
+  </data>
+  <data name="EmailLink" xml:space="preserve">
+    <value>Przypomnij</value>
+  </data>
+  <data name="EnterEmail" xml:space="preserve">
+    <value>Wprowadź swój adres email.</value>
+  </data>
+  <data name="ForgotPasswordConfirmation" xml:space="preserve">
+    <value>Przypomnij hasło</value>
+  </data>
+  <data name="ForgotYourPassword" xml:space="preserve">
+    <value>Zapomniałeś hasła?</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Główna</value>
+  </data>
+  <data name="HomePage" xml:space="preserve">
+    <value>Strona domowa</value>
+  </data>
+  <data name="Item" xml:space="preserve">
+    <value>Informacje</value>
+  </data>
+  <data name="ItemType" xml:space="preserve">
+    <value>Typ</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Zaloguj się</value>
+  </data>
+  <data name="LoginButton" xml:space="preserve">
+    <value>Zaloguj</value>
+  </data>
+  <data name="LoginMessage" xml:space="preserve">
+    <value>Użyj swojego konta aby się zalogować.</value>
+  </data>
+  <data name="MajorEntities" xml:space="preserve">
+    <value>Major Entities</value>
+  </data>
+  <data name="Marketing" xml:space="preserve">
+    <value>Marketing</value>
+  </data>
+  <data name="MinorEntities" xml:space="preserve">
+    <value>Minor Entities</value>
+  </data>
+  <data name="NotLogin" xml:space="preserve">
+    <value>Nie jesteś zalogowany</value>
+  </data>
+  <data name="Part" xml:space="preserve">
+    <value>Część</value>
+  </data>
+  <data name="Phone" xml:space="preserve">
+    <value>Telefon</value>
+  </data>
+  <data name="Product" xml:space="preserve">
+    <value>Placówka</value>
+  </data>
+  <data name="ProductItem" xml:space="preserve">
+    <value>Informacja-Placówka</value>
+  </data>
+  <data name="ProductLinkText" xml:space="preserve">
+    <value>Przycisk</value>
+  </data>
+  <data name="ProductType" xml:space="preserve">
+    <value>Dyscyplina</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Zarejestruj</value>
+  </data>
+  <data name="RegisterMessage" xml:space="preserve">
+    <value>Stwórz nowe konto.</value>
+  </data>
+  <data name="RegisterNewUser" xml:space="preserve">
+    <value>Zarejestruj się jako nowy użytkownik</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>Zresetuj</value>
+  </data>
+  <data name="ResetPassword" xml:space="preserve">
+    <value>Zresetuj hasło</value>
+  </data>
+  <data name="ResetPasswordConfirmation" xml:space="preserve">
+    <value>Potwierdzenie resetu hasła</value>
+  </data>
+  <data name="ResetPasswordMessage" xml:space="preserve">
+    <value>Twoje hasło zostało zresetowane. </value>
+  </data>
+  <data name="ResetYourPassword" xml:space="preserve">
+    <value>Zresetuj swoje hasło.</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Zapisz</value>
+  </data>
+  <data name="Section" xml:space="preserve">
+    <value>Temat</value>
+  </data>
+  <data name="SelectAuthentication" xml:space="preserve">
+    <value>Wybierz dostawcę uwierzytelniania dwuetapowego:</value>
+  </data>
+  <data name="Send" xml:space="preserve">
+    <value>Wyślij</value>
+  </data>
+  <data name="SendVerificationCode" xml:space="preserve">
+    <value>Wyślij kod weryfikacyjny</value>
+  </data>
+  <data name="SubCode" xml:space="preserve">
+    <value>Kod</value>
+  </data>
+  <data name="SubEndDate" xml:space="preserve">
+    <value>Data zakończenia</value>
+  </data>
+  <data name="SubId" xml:space="preserve">
+    <value>Id</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Zatwierdź</value>
+  </data>
+  <data name="Subscription" xml:space="preserve">
+    <value>Subskrypcja</value>
+  </data>
+  <data name="SubscriptionProduct" xml:space="preserve">
+    <value>Subskrypcja-Placówka</value>
+  </data>
+  <data name="Subscriptions" xml:space="preserve">
+    <value>Subskrypcje</value>
+  </data>
+  <data name="SubStartDate" xml:space="preserve">
+    <value>Data rozpoczęcia</value>
+  </data>
+  <data name="SubTitle" xml:space="preserve">
+    <value>Tytuł</value>
+  </data>
+  <data name="Support" xml:space="preserve">
+    <value>Pomoc techniczna</value>
+  </data>
+  <data name="Test" xml:space="preserve">
+    <value>test</value>
+  </data>
+  <data name="UsersSubscriptions" xml:space="preserve">
+    <value>Użytkownik-Subskrypcja</value>
+  </data>
+  <data name="Verify" xml:space="preserve">
+    <value>Zweryfikuj</value>
+  </data>
+  <data name="CodeMessage" xml:space="preserve">
+    <value>Wpisz kod tutaj</value>
+  </data>
+  <data name="Content" xml:space="preserve">
+    <value>Zawartość</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>Detale</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Błąd</value>
+  </data>
+  <data name="ErrorMessage" xml:space="preserve">
+    <value>Podczas przetwarzania żądania wystąpił błąd.</value>
+  </data>
+  <data name="FirstName" xml:space="preserve">
+    <value>Nazwa konta</value>
+  </data>
+  <data name="ForgotPasswordMessage" xml:space="preserve">
+    <value>Wprowadź adres e-mail powiązany z kontem, aby otrzymać instrukcje odzyskiwania hasła.</value>
+  </data>
+  <data name="HaveTrouble" xml:space="preserve">
+    <value>Masz problem?</value>
+  </data>
+  <data name="Index" xml:space="preserve">
+    <value>Index</value>
+    <comment>Index</comment>
+  </data>
+  <data name="KeepLogin" xml:space="preserve">
+    <value>Pozostaw mnie zalogowanym</value>
+  </data>
+  <data name="LockedOut" xml:space="preserve">
+    <value>Zablokowany</value>
+  </data>
+  <data name="LockedOutMessage" xml:space="preserve">
+    <value>To konto zostało zablokowane. Spróbuj ponownie później.</value>
+  </data>
+  <data name="Logoff" xml:space="preserve">
+    <value>Wyloguj</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Hasło</value>
+  </data>
+  <data name="Pwd" xml:space="preserve">
+    <value>Pwd</value>
+    <comment>!!!!!</comment>
+  </data>
+  <data name="RegisterCode" xml:space="preserve">
+    <value>Kod aktywacyjny</value>
+  </data>
+  <data name="RegisterCodeMessage" xml:space="preserve">
+    <value>Nie można aktywować kodu</value>
+  </data>
+  <data name="RegisterFreeAccount" xml:space="preserve">
+    <value>Załóż darmowe konto</value>
+  </data>
+  <data name="SendMailToSupport" xml:space="preserve">
+    <value>Wyślij e-mail do naszego </value>
+  </data>
+  <data name="SendMailToSupport1" xml:space="preserve">
+    <value>zespołu wsparcia</value>
+  </data>
+  <data name="SignUp" xml:space="preserve">
+    <value>Zapisz mnie!</value>
+  </data>
+  <data name="TermsUse" xml:space="preserve">
+    <value>Regulamin</value>
+  </data>
+  <data name="TermsUseAccept" xml:space="preserve">
+    <value>Akceptuje</value>
+  </data>
+  <data name="VerifyPhoneNumber" xml:space="preserve">
+    <value>Zweryfikuj numer telefonu</value>
+  </data>
+  <data name="AddPhoneNumber" xml:space="preserve">
+    <value>Dodaj numer telefonu</value>
+  </data>
+  <data name="ChangePassword" xml:space="preserve">
+    <value>Zmień hasło</value>
+  </data>
+  <data name="CreateLogin" xml:space="preserve">
+    <value>Stwórz Login</value>
+    <comment>???</comment>
+  </data>
+  <data name="CreatePassword" xml:space="preserve">
+    <value>Stwórz hasło</value>
+  </data>
+  <data name="EnterVerifCode" xml:space="preserve">
+    <value>Wpisz kod weryfikacyjny</value>
+  </data>
+  <data name="NewPassword" xml:space="preserve">
+    <value>Nowe hasło</value>
+  </data>
+  <data name="PhoneNumber" xml:space="preserve">
+    <value>Numer telefonu</value>
+  </data>
+  <data name="SetPassword" xml:space="preserve">
+    <value>Ustaw hasło</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Powrót</value>
+  </data>
+  <data name="MyContent" xml:space="preserve">
+    <value>Moja tablica</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Tytuł</value>
+  </data>
+  <data name="TitleRequired" xml:space="preserve">
+    <value>Tytuł jest wymagany</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Opis</value>
+  </data>
+  <data name="DescriptionLong" xml:space="preserve">
+    <value>Opis jest za długi</value>
+  </data>
+  <data name="HTMLShort" xml:space="preserve">
+    <value>Krótki HTML</value>
+  </data>
+  <data name="ImageUrl" xml:space="preserve">
+    <value>Url obrazu</value>
+  </data>
+  <data name="ImageUrlLong" xml:space="preserve">
+    <value>Url obrazu jest za długi</value>
+  </data>
+  <data name="TitleLong" xml:space="preserve">
+    <value>Tytuł jest za długi</value>
+  </data>
+  <data name="Url" xml:space="preserve">
+    <value>Url</value>
+  </data>
+  <data name="UrlLong" xml:space="preserve">
+    <value>Url jest za długi</value>
+  </data>
+  <data name="WaitDays" xml:space="preserve">
+    <value>Odczekaj dni</value>
+  </data>
+  <data name="IsFree" xml:space="preserve">
+    <value>Darmowe</value>
+  </data>
+  <data name="ItemId" xml:space="preserve">
+    <value>Id Informacji</value>
+  </data>
+  <data name="Items" xml:space="preserve">
+    <value>Informacje</value>
+  </data>
+  <data name="ItemTitle" xml:space="preserve">
+    <value>Tytuł Informacji</value>
+  </data>
+  <data name="ItemTypes" xml:space="preserve">
+    <value>Typy Informacji</value>
+  </data>
+  <data name="Parts" xml:space="preserve">
+    <value>Części</value>
+  </data>
+  <data name="ProductId" xml:space="preserve">
+    <value>Id Placówki</value>
+  </data>
+  <data name="ProductLinkTexts" xml:space="preserve">
+    <value>Przyciski</value>
+  </data>
+  <data name="Products" xml:space="preserve">
+    <value>Placówki</value>
+  </data>
+  <data name="ProductTitle" xml:space="preserve">
+    <value>Nazwa Placówki</value>
+  </data>
+  <data name="ProductTypes" xml:space="preserve">
+    <value>Dyscypliny</value>
+  </data>
+  <data name="RegistrationCode" xml:space="preserve">
+    <value>Kod aktywacyjny</value>
+  </data>
+  <data name="RegistrationCodeLong" xml:space="preserve">
+    <value>Kod aktywacyjny jest za długi</value>
+  </data>
+  <data name="Sections" xml:space="preserve">
+    <value>Tematy</value>
+  </data>
+  <data name="SubscriptionId" xml:space="preserve">
+    <value>Id Subskrypcji</value>
+  </data>
+  <data name="SubscriptionTitle" xml:space="preserve">
+    <value>Nazwa Subskrypcji</value>
+  </data>
+  <data name="UserId" xml:space="preserve">
+    <value>Id Użytkownika</value>
+  </data>
+</root>

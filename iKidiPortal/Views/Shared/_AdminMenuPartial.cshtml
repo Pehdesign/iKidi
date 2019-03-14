@@ -1,0 +1,44 @@
+﻿@{
+    var culture = System.Threading.Thread.CurrentThread.CurrentUICulture.Name.ToLowerInvariant();
+}
+@helper selected(string c, string culture)
+{
+if (c == culture)
+{
+        @:checked="checked"
+    }
+}
+
+@if (Request.IsAuthenticated && User.IsInRole("Admin"))
+{
+    <li class="dropdown" data-admin-menu>
+        <a href="#">
+            Admin
+            <span class="glyphicon glyphicon-chevron-down"></span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+            <li class="dropdown-header">@Resource.MinorEntities</li>
+            <li class="divider" />
+            <li><a href="/Section">&nbsp;&nbsp;@Resource.Section</a></li>
+            <li><a href="/Part">&nbsp;&nbsp;@Resource.Part</a></li>
+            <li><a href="/ItemType">&nbsp;&nbsp;@Resource.ItemType</a></li>
+            <li><a href="/ProductType">&nbsp;&nbsp;@Resource.ProductType</a></li>
+            <li><a href="/ProductLinkText">&nbsp;&nbsp;@Resource.ProductLinkText</a></li>
+            <li class="divider" />
+            <li class="dropdown-header">@Resource.MajorEntities</li>
+            <li class="divider" />
+            <li><a href="/Item">&nbsp;&nbsp;@Resource.Item</a></li>
+            <li><a href="/Product">&nbsp;&nbsp;@Resource.Product</a></li>
+            <li><a href="/Subscription">&nbsp;&nbsp;@Resource.Subscription</a></li>
+            <li class="divider" />
+            <li class="dropdown-header">@Resource.ConnectorEntities</li>
+            <li class="divider" />
+            <li><a href="/ProductItem">&nbsp;&nbsp;@Resource.ProductItem</a></li>
+            <li><a href="/SubscriptionProduct">&nbsp;&nbsp;@Resource.SubscriptionProduct</a></li>
+            <li class="divider" />
+            <li class="dropdown-header">@Resource.UsersSubscriptions</li>
+            <li class="divider" />
+            <li><a href="/Account">&nbsp;&nbsp;@Resource.UsersSubscriptions</a></li>
+        </ul>
+    </li>
+}
