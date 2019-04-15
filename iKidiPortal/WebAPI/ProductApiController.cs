@@ -20,7 +20,6 @@
         [HttpGet]
         public async Task<string> Get(string title)
         {
-            var db = ApplicationDbContext.Create();
             Product product = await (Product)from p in db.Products
                                        where p.Title.CompareTo(title) == 0
                                        select p;
