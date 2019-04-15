@@ -1,21 +1,20 @@
-﻿namespace iKidi.WebAPI
-{
-    using iKidi.Entities;
-    using iKidi.Models;
-    using System.Linq;
-    using System.Net;
-    using System.Net.Http;
-    using System.Transactions;
-    using System.Web.Http;
-    using System.Web.Script.Serialization;
+﻿using System;
+using iKidi.Entities;
+using iKidi.Models;
+using System.Linq;
+using System.Net;
+using System.Net.Http;
+using System.Transactions;
+using System.Web.Http;
+using System.Web.Script.Serialization;
+using System.Threading.Tasks;
 
+namespace iKidi.WebAPI
+{
     [Authorize(Roles = "Admin")]
     public class ProductApiController : ApiController
    {
         private ApplicationDbContext db = new ApplicationDbContext();
-        private const string OK = "OK";
-        private const string BADREQUEST = "BAD REQUEST";
-        private const string NOTFOUND = "NOT FOUND";
 
         [HttpGet]
         public async Task<string> Get(string title)
@@ -25,7 +24,7 @@
                                        select p;
             if(product == null)
             {
-                return NOTFOUND;
+                return WebApiResponse.NOTFOUND;
             }
             var json = new JavaScriptSerializer().Serialize(product);           
             return json;
@@ -36,14 +35,14 @@
         {
             if(id == null)
             {
-                return BADREQUEST;
+                return WebApiResponse.BADREQUEST;
             }
             Product product = await (Product)from p in db.Products
                                        where p.Id.CompareTo(id) == 0
                                        select p;
             if (product == null)
             {
-                return NOTFOUND;
+                return WebApiResponse.NOTFOUND;
             }
             var json = new JavaScriptSerializer().Serialize(product);
             return json;
@@ -56,7 +55,7 @@
             {
                 db.Products.Add(product);
                 await db.SaveChangesAsync();
-                return OK;
+                return WebApiResponse.OK;
             }
             else
             {
@@ -85,12 +84,12 @@
                     db.Products.Remove(product);
                     await db.SaveChangesAsync();
                     transaction.Complete();
-                    return OK;
+                    return WebApiResponse.OK;
                 }
                 catch
                 {
                     transaction.Dispose();
-                    return NOTFOUND;
+                    return WebApiResponse.NOTFOUND;
                 }
             }
         }
