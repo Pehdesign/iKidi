@@ -75,6 +75,10 @@ C:/Users/Pehdesign/Downloads/Memberships-Video-Code-Finished/Memberships - Video
 /Users/pawelpalacz/Desktop/iKidi kopia — kopia/iKidiPortal/obj/Debug/iKidi.csproj.CoreCompileInputs.cache
 /Users/pawelpalacz/Desktop/iKidi kopia — kopia/iKidiPortal/obj/Debug/iKidi.dll
 /Users/pawelpalacz/Desktop/iKidi kopia — kopia/iKidiPortal/obj/Debug/iKidi.pdb
+C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\obj\Debug\iKidi.App_GlobalResources.Resource.resources
+C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\obj\Debug\iKidi.App_GlobalResources.Resource.pl.resources
+C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\obj\Debug\iKidi.csproj.GenerateResource.cache
+C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\obj\Debug\iKidi.csproj.CoreCompileInputs.cache
 C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\bin\ApplicationInsights.config
 C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\bin\roslyn\csc.exe
 C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -165,11 +169,6 @@ C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\bin\Microsoft.Owin.Se
 C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\obj\Debug\iKidi.csprojAssemblyReference.cache
-C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\obj\Debug\iKidi.App_GlobalResources.Resource.resources
-C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\obj\Debug\iKidi.App_GlobalResources.Resource.pl.resources
-C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\obj\Debug\iKidi.csproj.GenerateResource.cache
-C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\obj\Debug\iKidi.csproj.CoreCompileInputs.cache
 C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\obj\Debug\pl\iKidi.resources.dll
 C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\obj\Debug\iKidi.csproj.CopyComplete
 C:\Users\Dominik Dziembała\Source\Repos\iKidi\iKidiPortal\obj\Debug\iKidi.dll

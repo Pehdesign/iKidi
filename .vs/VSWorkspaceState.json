@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\iKidiPortal",
-    "\\iKidiPortal\\App_Start",
-    "\\iKidiPortal\\WebAPI"
+    "\\iKidiPortal"
   ],
   "SelectedNode": "\\iKidi.sln",
   "PreviewInSolutionExplorer": false

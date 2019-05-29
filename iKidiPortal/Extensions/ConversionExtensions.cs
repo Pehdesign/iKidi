@@ -179,7 +179,7 @@ namespace iKidi.Extensions
             {
                 SubscriptionId = subscriptionProduct.SubscriptionId,
                 ProductId = subscriptionProduct.ProductId,
-                Subscriptions = addListData ? await db.Subscriptions.ToListAsync() : null,
+                Subscriptions = addListData ? await db.SubscriptionProducts.ToListAsync() : null,
                 Products = addListData ? await db.Products.ToListAsync() : null,
                 SubscriptionTitle = (await db.Subscriptions.FirstOrDefaultAsync(s =>
                    s.Id.Equals(subscriptionProduct.SubscriptionId))).Title,
@@ -193,8 +193,8 @@ namespace iKidi.Extensions
         public static async Task<bool> CanChange(
             this SubscriptionProduct subscriptionProduct, 
             ApplicationDbContext db)
-        {
-            var oldSP = await db.SubscriptionProducts.CountAsync(sp =>
+        {   
+                var oldSP = await db.SubscriptionProducts.CountAsync(sp =>
                 sp.ProductId.Equals(subscriptionProduct.OldProductId) &&
                 sp.SubscriptionId.Equals(subscriptionProduct.OldSubscriptionId));
 

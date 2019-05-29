@@ -21,7 +21,7 @@ namespace iKidi.Controllers
         // GET: Admin/Subscription
         public async Task<ActionResult> Index()
         {
-            return View(await db.Subscriptions.ToListAsync());
+            return View(await db.SubscriptionProducts.ToListAsync());
         }
 
         // GET: Admin/Subscription/Details/5
@@ -82,7 +82,7 @@ namespace iKidi.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult> Edit([Bind(Include = "Id,Title,Description,RegistrationCode")] Subscription subscription)
+        public async Task<ActionResult> Edit([Bind(Include = "Id,Title,Description,RegistrationCode")] UserSubscription subscription)
         {
             if (ModelState.IsValid)
             {

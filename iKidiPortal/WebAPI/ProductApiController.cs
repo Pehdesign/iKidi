@@ -8,6 +8,8 @@ using System.Transactions;
 using System.Web.Http;
 using System.Web.Script.Serialization;
 using System.Threading.Tasks;
+using System.Collections.Generic;
+using System.Data.Entity;
 
 namespace iKidi.WebAPI
 {
@@ -17,80 +19,44 @@ namespace iKidi.WebAPI
         private ApplicationDbContext db = new ApplicationDbContext();
 
         [HttpGet]
-        public async Task<string> Get(string title)
+        public async Task<string> GetAll()
         {
-            Product product = await (Product)from p in db.Products
-                                       where p.Title.CompareTo(title) == 0
-                                       select p;
-            if(product == null)
+            List<Product> list = await db.Products.ToListAsync();
+            string response = "";
+            foreach (Product element in list)
             {
-                return WebApiResponse.NOTFOUND;
+                response = new JavaScriptSerializer().Serialize(element);
             }
-            var json = new JavaScriptSerializer().Serialize(product);           
-            return json;
+            return response;
         }
 
         [HttpGet]
         public async Task<string> Get(int id)
         {
-            if(id == null)
-            {
-                return WebApiResponse.BADREQUEST;
-            }
-            Product product = await (Product)from p in db.Products
-                                       where p.Id.CompareTo(id) == 0
-                                       select p;
+            Product product = await db.Products.FindAsync(id);
             if (product == null)
             {
                 return WebApiResponse.NOTFOUND;
             }
-            var json = new JavaScriptSerializer().Serialize(product);
+            string json = new JavaScriptSerializer().Serialize(product);
             return json;
         }
 
         [HttpPost]
-        public async Task<string> Post([FromBody] Product product)
+        public HttpResponseMessage Post([FromBody] Product product)
         {
+            HttpResponseMessage response;
             if (ModelState.IsValid)
             {
                 db.Products.Add(product);
-                await db.SaveChangesAsync();
-                return WebApiResponse.OK;
+                db.SaveChangesAsync();
+                response = Request.CreateResponse(HttpStatusCode.OK);
+                return response;
             }
             else
             {
-                var json = new JavaScriptSerializer().Serialize(product);
-                return json;
-            }
-        }
-
-        [HttpDelete]
-        public async Task<string> Delete(int id)
-        {
-            Product product = await (Product)from p in db.Products
-                                       where p.Id.CompareTo(id) == 0
-                                       select p;
-            using (var transaction = new TransactionScope(
-                    TransactionScopeAsyncFlowOption.Enabled))
-            {
-                try
-                {
-                    var prodItems = db.ProductItems.Where(
-                        pi => pi.ProductId.Equals(id));
-                    var prodSubscr = db.SubscriptionProducts.Where(
-                        sp => sp.ProductId.Equals(id));
-                    db.ProductItems.RemoveRange(prodItems);
-                    db.SubscriptionProducts.RemoveRange(prodSubscr);
-                    db.Products.Remove(product);
-                    await db.SaveChangesAsync();
-                    transaction.Complete();
-                    return WebApiResponse.OK;
-                }
-                catch
-                {
-                    transaction.Dispose();
-                    return WebApiResponse.NOTFOUND;
-                }
+                response = Request.CreateResponse(HttpStatusCode.NotAcceptable);
+                return response;
             }
         }
     }
