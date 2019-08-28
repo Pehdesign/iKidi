@@ -21,7 +21,7 @@ namespace iKidi.Controllers
         // GET: Admin/SubscriptionProduct
         public async Task<ActionResult> Index()
         {
-            return View(await db.SubscriptionProducts.ToListAsync());
+            return View(await db.SubscriptionProducts.Convert(db));
         }
 
         // GET: Admin/SubscriptionProduct/Details/5
@@ -47,7 +47,7 @@ namespace iKidi.Controllers
         {
             var model = new SubscriptionProductModel
             {
-                Subscriptions = await db.SubscriptionProducts.ToListAsync(),
+                Subscriptions = await db.Subscriptions.ToListAsync(),
                 Products = await db.Products.ToListAsync()
             };
             return View(model);

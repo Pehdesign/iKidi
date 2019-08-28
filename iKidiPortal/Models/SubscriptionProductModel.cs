@@ -27,6 +27,6 @@ namespace iKidi.Models
         public ICollection<Product> Products { get; set; }
 
         [Display(Name = "Subscriptions", ResourceType = typeof(Resource))]
-        public ICollection<SubscriptionProduct> Subscriptions { get; set; }
+        public ICollection<Subscription> Subscriptions { get; set; }
     }
 }
