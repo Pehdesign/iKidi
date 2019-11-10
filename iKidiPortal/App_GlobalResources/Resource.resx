@@ -208,10 +208,10 @@
     <value>Home Page</value>
   </data>
   <data name="Item" xml:space="preserve">
-    <value>Item</value>
+    <value>Information</value>
   </data>
   <data name="ItemType" xml:space="preserve">
-    <value>Item Type</value>
+    <value>Information Type</value>
   </data>
   <data name="Login" xml:space="preserve">
     <value>Log in</value>
@@ -241,16 +241,16 @@
     <value>Phone</value>
   </data>
   <data name="Product" xml:space="preserve">
-    <value>Product</value>
+    <value>Club</value>
   </data>
   <data name="ProductItem" xml:space="preserve">
-    <value>Product Item</value>
+    <value>Club-Information</value>
   </data>
   <data name="ProductLinkText" xml:space="preserve">
-    <value>Product Link Text</value>
+    <value>Button</value>
   </data>
   <data name="ProductType" xml:space="preserve">
-    <value>Product Type</value>
+    <value>Discipline</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>Register</value>
@@ -280,7 +280,7 @@
     <value>Save</value>
   </data>
   <data name="Section" xml:space="preserve">
-    <value>Section</value>
+    <value>Topic</value>
   </data>
   <data name="SelectAuthentication" xml:space="preserve">
     <value>Select Two-Factor Authentication Provider:</value>
@@ -307,7 +307,7 @@
     <value>Subscription</value>
   </data>
   <data name="SubscriptionProduct" xml:space="preserve">
-    <value>Subscription Product</value>
+    <value>Subscription-Club</value>
   </data>
   <data name="Subscriptions" xml:space="preserve">
     <value>Subscriptions</value>
@@ -325,7 +325,7 @@
     <value>test</value>
   </data>
   <data name="UsersSubscriptions" xml:space="preserve">
-    <value>Users &amp; Subscriptions</value>
+    <value>Users</value>
   </data>
   <data name="Verify" xml:space="preserve">
     <value>Verify</value>
@@ -433,7 +433,7 @@
     <value>Back</value>
   </data>
   <data name="MyContent" xml:space="preserve">
-    <value>My Content</value>
+    <value>My Wall</value>
   </data>
   <data name="Title" xml:space="preserve">
     <value>Title</value>
@@ -472,34 +472,34 @@
     <value>Is Free</value>
   </data>
   <data name="ItemId" xml:space="preserve">
-    <value>Item Id</value>
+    <value>Information Id</value>
   </data>
   <data name="Items" xml:space="preserve">
-    <value>Items</value>
+    <value>Informations</value>
   </data>
   <data name="ItemTitle" xml:space="preserve">
-    <value>Item Title</value>
+    <value>Information Title</value>
   </data>
   <data name="ItemTypes" xml:space="preserve">
-    <value>Item Types</value>
+    <value>Information Types</value>
   </data>
   <data name="Parts" xml:space="preserve">
     <value>Parts</value>
   </data>
   <data name="ProductId" xml:space="preserve">
-    <value>Product Id</value>
+    <value>Club Id</value>
   </data>
   <data name="ProductLinkTexts" xml:space="preserve">
-    <value>Product Link Texts</value>
+    <value>Buttons</value>
   </data>
   <data name="Products" xml:space="preserve">
-    <value>Products</value>
+    <value>Clubs</value>
   </data>
   <data name="ProductTitle" xml:space="preserve">
-    <value>Product Title</value>
+    <value>Club's name</value>
   </data>
   <data name="ProductTypes" xml:space="preserve">
-    <value>Product Types</value>
+    <value>Disciplines</value>
   </data>
   <data name="RegistrationCode" xml:space="preserve">
     <value>Registration Code</value>
@@ -508,7 +508,7 @@
     <value>Registration Code is too long</value>
   </data>
   <data name="Sections" xml:space="preserve">
-    <value>Sections</value>
+    <value>Topics</value>
   </data>
   <data name="SubscriptionId" xml:space="preserve">
     <value>Subscription Id</value>

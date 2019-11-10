@@ -287,18 +287,7 @@
     <Compile Include="Models\UserViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
-    <Compile Include="WebAPI\ItemApiController.cs" />
-    <Compile Include="WebAPI\ItemTypeApiController.cs" />
-    <Compile Include="WebAPI\PartApiController.cs" />
-    <Compile Include="WebAPI\ProdcutItemApiController.cs" />
-    <Compile Include="WebAPI\ProductApiController.cs" />
-    <Compile Include="WebAPI\ProductLinkTextApiContoller.cs" />
-    <Compile Include="WebAPI\ProductTypeApiController.cs" />
-    <Compile Include="WebAPI\SectionApiController.cs" />
-    <Compile Include="WebAPI\SubscriptionApiController.cs" />
-    <Compile Include="WebAPI\SubscriptionProductApiController.cs" />
-    <Compile Include="WebAPI\UserSubscriptionApiController.cs" />
-    <Compile Include="WebAPI\WebApiResponse.cs" />
+    <Compile Include="WebAPI\ApiController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
@@ -513,7 +502,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>2464</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:2464/</IISUrl>
+          <IISUrl>http://127.0.0.1:2464/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

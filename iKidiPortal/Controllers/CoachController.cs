@@ -32,15 +32,19 @@ namespace iKidi.Controllers
                 desc = desc + subscriptions[i];
             }
             string prod = "";
+            var productsList = new List<List<int>>();
             var products = new List<int>();
+
             for (int i = 0; i < subscriptions.Count; i++)
             {
+                var myInt = subscriptions[i];
                 products = await (
                         from sp in db.SubscriptionProducts
-                        where sp.SubscriptionId.Equals(subscriptions[i])
+                        where sp.SubscriptionId.Equals(myInt)
                         select sp.ProductId).ToListAsync();
+                productsList.Add(products);
             }
-            for (int i = 0; i < products.Count; i++)
+            for (int i = 0; i < productsList.Count; i++)
             {
                 prod = prod + subscriptions[i] + ",";
             }

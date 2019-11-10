@@ -19,7 +19,7 @@
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
     <UseGlobalApplicationHostFile />
-    <NameOfLastUsedPublishProfile>iKidiNew - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>iKidiPortal - Web Deploy</NameOfLastUsedPublishProfile>
     <WebStackScaffolding_DbContextDialogWidth>600</WebStackScaffolding_DbContextDialogWidth>
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
   </PropertyGroup>

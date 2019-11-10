@@ -529,7 +529,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Item.
+        ///   Looks up a localized string similar to Information.
         /// </summary>
         public static string Item {
             get {
@@ -538,7 +538,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Item Id.
+        ///   Looks up a localized string similar to Information Id.
         /// </summary>
         public static string ItemId {
             get {
@@ -547,7 +547,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Items.
+        ///   Looks up a localized string similar to Informations.
         /// </summary>
         public static string Items {
             get {
@@ -556,7 +556,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Item Title.
+        ///   Looks up a localized string similar to Information Title.
         /// </summary>
         public static string ItemTitle {
             get {
@@ -565,7 +565,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Item Type.
+        ///   Looks up a localized string similar to Information Type.
         /// </summary>
         public static string ItemType {
             get {
@@ -574,7 +574,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Item Types.
+        ///   Looks up a localized string similar to Information Types.
         /// </summary>
         public static string ItemTypes {
             get {
@@ -673,7 +673,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to My Content.
+        ///   Looks up a localized string similar to My Wall.
         /// </summary>
         public static string MyContent {
             get {
@@ -745,7 +745,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Product.
+        ///   Looks up a localized string similar to Club.
         /// </summary>
         public static string Product {
             get {
@@ -754,7 +754,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Product Id.
+        ///   Looks up a localized string similar to Club Id.
         /// </summary>
         public static string ProductId {
             get {
@@ -763,7 +763,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Product Item.
+        ///   Looks up a localized string similar to Club-Information.
         /// </summary>
         public static string ProductItem {
             get {
@@ -772,7 +772,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Product Link Text.
+        ///   Looks up a localized string similar to Button.
         /// </summary>
         public static string ProductLinkText {
             get {
@@ -781,7 +781,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Product Link Texts.
+        ///   Looks up a localized string similar to Buttons.
         /// </summary>
         public static string ProductLinkTexts {
             get {
@@ -790,7 +790,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Products.
+        ///   Looks up a localized string similar to Clubs.
         /// </summary>
         public static string Products {
             get {
@@ -799,7 +799,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Product Title.
+        ///   Looks up a localized string similar to Club&apos;s name.
         /// </summary>
         public static string ProductTitle {
             get {
@@ -808,7 +808,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Product Type.
+        ///   Looks up a localized string similar to Discipline.
         /// </summary>
         public static string ProductType {
             get {
@@ -817,7 +817,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Product Types.
+        ///   Looks up a localized string similar to Disciplines.
         /// </summary>
         public static string ProductTypes {
             get {
@@ -961,7 +961,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Section.
+        ///   Looks up a localized string similar to Topic.
         /// </summary>
         public static string Section {
             get {
@@ -970,7 +970,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sections.
+        ///   Looks up a localized string similar to Topics.
         /// </summary>
         public static string Sections {
             get {
@@ -1096,7 +1096,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Subscription Product.
+        ///   Looks up a localized string similar to Subscription-Club.
         /// </summary>
         public static string SubscriptionProduct {
             get {
@@ -1231,7 +1231,7 @@ namespace iKidi.App_GlobalResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Users &amp; Subscriptions.
+        ///   Looks up a localized string similar to Users.
         /// </summary>
         public static string UsersSubscriptions {
             get {
